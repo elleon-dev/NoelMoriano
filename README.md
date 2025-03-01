@@ -6,7 +6,7 @@
 - 🎓 Graduated ✨ Higher Technician in Computing ✨
 - 💪 Co-founder and member of the IUBI team
 - 🔭 I am currently working on projects for IUBI
-- ⚡ Fun fact: My name backwards is LEON
+- ⚡ Fun fact: My name backwards is LEON 🦁
 - 😻 Animal lover
 
 ## Stack
