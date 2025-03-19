@@ -24,6 +24,7 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=%23fff&logoSize=auto)
 ![Trello](https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=%23fff&logoSize=auto)
 
+
 ## Projects I participated in
 
 ### Find Local Tour (Experience sales company)
@@ -35,7 +36,7 @@ The ticket sales platform has its administration panel with sales, permits, etc.
 ### Cruz Del Sur (Land travel company)
 The ticket sales platform has its administration panel with sales, permits, etc. Check it out! [Click here!](https://www.cruzdelsur.com.pe/)
 
-## Conoce tu delivery
+### Conoce tu delivery
 App to verify the formality of home delivery drivers. Check it out! [Click here!](https://www.conocetudelivery.com/)
 
 
