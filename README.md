@@ -24,7 +24,22 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=%23fff&logoSize=auto)
 ![Trello](https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=%23fff&logoSize=auto)
 
-## My favourite projects
+## Projects I participated in
+
+### Find Local Tour (Experience sales company)
+Company selling experiences (tours, classes, etc.). Check it out! [Click here!](https://www.findalocaltour.com/)
+
+### Civa (Land travel company)
+The ticket sales platform has its administration panel with sales, permits, etc. Check it out! [Click here!](https://www.civa.com.pe/)
+
+### Cruz Del Sur (Land travel company)
+The ticket sales platform has its administration panel with sales, permits, etc. Check it out! [Click here!](https://www.cruzdelsur.com.pe/)
+
+## Conoce tu delivery
+App to verify the formality of home delivery drivers. Check it out! [Click here!](https://www.conocetudelivery.com/)
+
+
+## My personal projects
 
 ### AnimesGozu
 The platform to watch anime online and for free, has an administration panel that performs web scraping to other anime streaming platforms.
@@ -32,6 +47,7 @@ The platform to watch anime online and for free, has an administration panel tha
 👉 [Go to the repository](https://github.com/NoelMoriano/AnimesGozu)
 
 Check it out! [Click here!](https://animesgozu.com/)
+
 
 ### Green eternal web with AI voice assistant
 A web page integrated with an AI virtual assistant.
