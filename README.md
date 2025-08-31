@@ -1,4 +1,4 @@
-<h1>Hello! My name is Noel 👋</h1> 
+<h1>Hello! I'm Noel Moriano (ElleonDev) 👋</h1> 
 
 ## About me
 - 💻 Fullstack web developer
