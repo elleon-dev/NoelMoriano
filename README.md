@@ -4,7 +4,7 @@
 - 💻 Fullstack web developer
 - 💡 My main stack is focused on JavaScript frameworks.
 - 🎓 Graduated ✨ Higher Technician in Computing ✨
-- 💪 Co-founder and member of the IUBI team
+- 💪 Co-founder **iubizon**
 - 🔭 I am currently working on projects for IUBI
 - ⚡ Fun fact: My name backwards is LEON 🦁
 - 😻 Animal lover
